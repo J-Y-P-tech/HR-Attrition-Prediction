@@ -1,0 +1,18 @@
+# Python virtual environment
+.venv/
+venv/
+
+# IDE-specific settings (JetBrains, VSCode, etc.)
+.idea/
+.vscode/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+_backup/
+_exports/
+_not_in_use/
+
+# Data files - uncomment the line below if you don't want to upload your data
+# *.csv
