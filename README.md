@@ -58,7 +58,7 @@ The model interpretation revealed clear, actionable patterns for why employees l
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/your-repo-name.git
+    git clone https://github.com/J-Y-P-tech/HR-Attrition-Prediction.git
     ```
 2.  **Create a virtual environment and install dependencies:**
 
@@ -71,6 +71,6 @@ The model interpretation revealed clear, actionable patterns for why employees l
     _(Note: You may want to create a `requirements.txt` file by running `pip freeze > requirements.txt` in your project environment.)_
 
 3.  **Explore the project:**
-    - `binary-classification-hr-attrition.pdf`: A comprehensive PDF report of the Jupyter Notebook containing the full analysis, code, and visualizations.
+    - `binary-classification-hr-attrition.ipynb`: Run the code and you will see the full analysis, and visualizations.
     - `models.py`: The custom `ModelTrainer` class used for systematic modeling.
     - `WA_Fn-UseC_-HR-Employee-Attrition.csv`: The raw dataset used for the project.
